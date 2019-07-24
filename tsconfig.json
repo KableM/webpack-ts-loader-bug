@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "es6",
+        "target": "es6",
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "noImplicitReturns": true,
+        "esModuleInterop": true,
+        "strict": true
+    },
+    "includes": [
+        "src/*/**"
+    ]
+}
